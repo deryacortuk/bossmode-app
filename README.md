@@ -11,7 +11,7 @@ No one else sees anything. Ever.
 
 ## Download
 
-👉 https://github.com/deryacortuk/bossmode-app/releases/latest/download/BossMode.exe
+👉 https://github.com/deryacortuk/bossmode-app/releases/latest/download/BossModeSetup.exe
 
 * Windows 10 / 11
 * ~2 MB
