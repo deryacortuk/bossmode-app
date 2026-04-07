@@ -11,7 +11,7 @@ No one else sees anything. Ever.
 
 ## Download
 
-👉 https://github.com/deryacortuk/bossmode-app/releases/latest/download/BossModeSetup.exe
+👉 https://github.com/deryacortuk/bossmode-app/releases/latest/download/BossMode.exe
 
 * Windows 10 / 11
 * ~2 MB
@@ -21,7 +21,7 @@ No one else sees anything. Ever.
 
 ## How it works
 
-1. Download `BossModeSetup.exe`
+1. Download `BossMode.exe`
 2. Double-click to run
 3. Press your rage button 😤
 4. A message appears on your screen (only yours)
